@@ -10,3 +10,4 @@ cd ~
 mkdir  -p tempSetup
 cd tempSetup
 mkdir -p ~/sysReq/myBin
+git clone https://github.com/inkSpace-Abhi/Tools.git ~/sysReq/myBin
