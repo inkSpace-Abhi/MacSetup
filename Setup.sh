@@ -6,3 +6,7 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
 #osascript -e 'tell application "System Events" to set picture of every desktop to POSIX file "~/SysReq/Wallpapers/antoine-le-idiwVxHqmGg-unsplash.jpg"'
 brew install arp-scan nmap 
 brew install --cask visual-studio-code termius ollama utm audacity vnc-viewer ltspice google-chrome aldente vlc notion
+cd ~
+mkdir  -p tempSetup
+cd tempSetup
+mkdir -p ~/sysReq/myBin
